@@ -1,2 +1,2 @@
 # Eskimo
-kauak 360°
+kayak 360°
